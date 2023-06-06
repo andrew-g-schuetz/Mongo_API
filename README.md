@@ -1,7 +1,11 @@
 
 Start:
 
-Please run npm init to add the node_modules directory
+run npm init
+
+run npm install express
+
+run npm install mongodb
 
 Info:
 
