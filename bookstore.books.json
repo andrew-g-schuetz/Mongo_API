@@ -1,0 +1,135 @@
+[{
+  "_id": {
+    "$oid": "647f945ff32192f0b1363996"
+  },
+  "title": "Dune",
+  "author": "Frank Herbert",
+  "pages": 890,
+  "genres": [
+    "science fiction",
+    "adventure"
+  ],
+  "rating": 4.7
+},
+{
+  "_id": {
+    "$oid": "647f94caf32192f0b1363998"
+  },
+  "title": "Harry Potter and the Sorcerer's Stone",
+  "author": "J.K. Rowling",
+  "pages": 345,
+  "genres": [
+    "fantasy",
+    "adventure",
+    "children novel"
+  ],
+  "rating": 4.8
+},
+{
+  "_id": {
+    "$oid": "647f9551f32192f0b136399a"
+  },
+  "title": "Harry Potter and the Goblet of Fire",
+  "author": "J.K. Rowling",
+  "pages": 752,
+  "genres": [
+    "fantasy",
+    "adventure",
+    "children"
+  ],
+  "rating": 4.9
+},
+{
+  "_id": {
+    "$oid": "647f95b7f32192f0b136399c"
+  },
+  "title": "Too Big to Fail",
+  "author": "Andrew Ross Sorkin",
+  "pages": 640,
+  "genres": [
+    "non-fiction",
+    "economics",
+    "finance"
+  ],
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "647f9622f32192f0b136399e"
+  },
+  "title": "The Big Short",
+  "author": "Michael Lewis",
+  "pages": 287,
+  "genres": [
+    "non-fiction",
+    "economics",
+    "U.S. History"
+  ],
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "647f96a8f32192f0b13639a0"
+  },
+  "title": "1984",
+  "author": "George OrWell",
+  "pages": 326,
+  "genres": [
+    "political fiction",
+    "sci-fi"
+  ],
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "647f9715f32192f0b13639a2"
+  },
+  "title": "The Great Gatsby",
+  "author": "F. Scottt Fitzgerald",
+  "pages": 208,
+  "genres": [
+    "classical fiction",
+    "historical romance"
+  ],
+  "rating": 4.6
+},
+{
+  "_id": {
+    "$oid": "647f979cf32192f0b13639a4"
+  },
+  "title": "Brave New World",
+  "author": "Aldous Huxley",
+  "pages": 288,
+  "genres": [
+    "sci-fi",
+    "dystopian fiction"
+  ],
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "647f97fcf32192f0b13639a6"
+  },
+  "title": "Dune Messiah",
+  "author": "Frank Herbert",
+  "pages": 350,
+  "genres": [
+    "science fiction",
+    "adventure"
+  ],
+  "rating": 4.4
+},
+{
+  "_id": {
+    "$oid": "647f989ef32192f0b13639a8"
+  },
+  "title": "Harry Potter and the Deathly Hallows",
+  "author": "J.K. Rowling",
+  "pages": 700,
+  "genres": [
+    "fantasy",
+    "adventure",
+    "children's novel"
+  ],
+  "rating": 4.4
+}]
